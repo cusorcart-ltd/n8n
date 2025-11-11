@@ -3,7 +3,7 @@
     "target": "es2020",
     "module": "nodenext",
     "downlevelIteration": true
-	}
+	},
 	"extends": "./packages/@n8n/typescript-config/tsconfig.common.json",
 	"exclude": ["**/dist/**/*", "**/node_modules/**/*"]
 }
